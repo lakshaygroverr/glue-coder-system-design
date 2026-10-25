@@ -6,5 +6,6 @@ One folder per episode. Each has its own README with the exact steps from the vi
 | Episode | Folder |
 |---|---|
 | 1. Build a server, crash it, then fix it like Netflix | [ep01-crash-and-fix](ep01-crash-and-fix) |
+| 2. Why ChatGPT can't run on your phone (client vs server) | [ep02-chatgpt-on-your-phone](ep02-chatgpt-on-your-phone) |
 
 Free guides from the series: https://services.airlo.org/glue
