@@ -9,7 +9,7 @@ def ask(messages):
                                     "options": {"temperature": 0}})
     return r.json()["message"]["content"]
 
-first = {"role": "user", "content": "Hi! My name is Kanika and my favourite colour is orange. Just say nice to meet you."}
+first = {"role": "user", "content": "Hi! My name is Glue Coder and my favourite colour is orange. Just say nice to meet you."}
 reply = ask([first])
 print("Request 1:", first["content"]); print("AI:", reply, "\n")
 
