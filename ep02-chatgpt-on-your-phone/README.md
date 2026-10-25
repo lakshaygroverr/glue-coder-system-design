@@ -30,6 +30,6 @@ Tested with Python 3 and Ollama (model: llama3.2:1b).
 
 ## My test results (laptop with no GPU, so yours will be faster)
 - Streaming: first word after 0.2 seconds. Without streaming: waited about 30 seconds for the full answer.
-- Stateless: without history the AI said it had no information about the user. With history it answered "Your name is Kanika, and your favourite colour is orange."
+- Stateless: without history the AI said it had no information about the user. With history it answered "Your name is Glue Coder, and your favourite colour is orange."
 
 Tip: if demo 4 or 5 says "Connection refused", Ollama isn't running. Open the Ollama app, or run `ollama serve`.
